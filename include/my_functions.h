@@ -15,3 +15,4 @@ void pid();
 void encestar();
 
 void nueva();
+void lalo();
