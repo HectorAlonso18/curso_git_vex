@@ -7,3 +7,11 @@ void girar(){
 void avanzar(){
     //codigo
 }
+
+void imprimir(){
+
+}
+
+void reiniciar_sensores(){
+    
+}
