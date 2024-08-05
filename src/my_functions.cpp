@@ -3,3 +3,7 @@
 void girar(){
     //codigo
 }
+
+void avanzar(){
+    //codigo
+}
