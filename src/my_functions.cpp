@@ -1,4 +1,4 @@
-#include "mis_funciones.h"
+#include "my_functions.h"
 
 void girar(){
     //codigo
