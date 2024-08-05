@@ -25,3 +25,7 @@ void saltar(){
 void pid(){
 
 }
+
+void encestar(){
+    ///
+}

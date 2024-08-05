@@ -11,3 +11,5 @@ void reiniciar_sensores();
 void saltar(); 
 
 void pid();
+
+void encestar();
