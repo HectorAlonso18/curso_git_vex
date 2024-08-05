@@ -13,3 +13,5 @@ void saltar();
 void pid();
 
 void encestar();
+
+void nueva();

@@ -29,3 +29,5 @@ void pid(){
 void encestar(){
     ///
 }
+
+void nueva();
