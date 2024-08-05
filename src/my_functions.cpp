@@ -16,3 +16,12 @@ void imprimir(){
 void reiniciar_sensores(){
 //codigo
 }
+
+void saltar(){
+
+}
+
+
+void pid(){
+
+}

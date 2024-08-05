@@ -7,3 +7,7 @@ void avanzar();
 void imprimir(); 
 
 void reiniciar_sensores();
+
+void saltar(); 
+
+void pid();
